@@ -1,6 +1,9 @@
 requests==2.21.0
 Flask==1.0.2
 flask-cors==3.0.9
-pyOpenSSL==19.0.0
+pyOpenSSL==23.0.0
 Flask-Login==0.4.1
 okta-jwt-verifier==0.2.0
+itsdangerous==2.0.1
+jinja2==3.0.1
+Werkzeug~=2.0.0
